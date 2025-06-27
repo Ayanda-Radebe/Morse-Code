@@ -25,8 +25,8 @@ Check out the live Morse Code Translator with Matrix effects here:
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 
